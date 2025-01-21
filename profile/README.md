@@ -27,11 +27,9 @@ We’re a team of passionate technologists, engineers, and creative minds. Our m
 ---
 
 ## Our Tech Stack
-
 <table>
   <tr>
     <td valign="top" width="33%">
-
       ### Frontend
       <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px" />
@@ -42,10 +40,8 @@ We’re a team of passionate technologists, engineers, and creative minds. Our m
         <img src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" style="margin: 10px" />
         <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" style="margin: 10px" />
       </div>
-
     </td>
     <td valign="top" width="33%">
-
       ### Backend
       <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" style="margin: 10px" />
@@ -57,10 +53,8 @@ We’re a team of passionate technologists, engineers, and creative minds. Our m
         <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" style="margin: 10px" />
         <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px" />
       </div>
-
     </td>
     <td valign="top" width="33%">
-
       ### Infrastructure & Security
       <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" style="margin: 10px" />
@@ -70,7 +64,6 @@ We’re a team of passionate technologists, engineers, and creative minds. Our m
         <img src="https://profilinator.rishav.dev/skills-assets/bash-original.svg" alt="Bash" height="50" style="margin: 10px" />
         <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px" />
       </div>
-
     </td>
   </tr>
 </table>
